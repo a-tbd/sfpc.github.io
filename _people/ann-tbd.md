@@ -5,7 +5,7 @@ affiliation:
   role: Student
 twitter: 
 github: a-tbd
-website: a-tbd.com
+website: http://www.a-tbd.com
 place: NYC
 ---
 Ann is a person who does stuff.  
